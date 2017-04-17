@@ -3,10 +3,10 @@ This software trolls the mouse using Digispark.
 
 
 <h1>How to install:</h1>
-  1. Download the code.
-  2. Open the code in <a herf = "https://www.arduino.cc/en/Main/Software> Arduino IDE</a>
-  3. Press Verify
-  4. Press Upload
-  5. Connect Digispark
+ <li> Download the code.  </li>
+ <li> Open the code in Arduino IDE (https://www.arduino.cc/en/Main/Software)</li>
+ <li> Press Verify</li>
+ <li> Press Upload</li>
+ <li> Connect Digispark</li>
   
 Hope you will enjoy! :)
